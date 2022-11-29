@@ -13,7 +13,7 @@ export default function Home() {
           tenho experiência em desenvolvimento frontend
           e backend (React, TS, JS e outros).
         </Intro>
-        <Link href="projects">
+        <Link passHref="projects">
           <LinkProjects>PROJETOS <FaArrowRight /></LinkProjects>
         </Link>
       </Infos>
