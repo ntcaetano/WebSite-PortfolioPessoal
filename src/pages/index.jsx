@@ -7,11 +7,11 @@ export default function Home() {
    <Container>
      <Content>
       <Infos>
-        <Name>Olá, sou William Lucas</Name>
+        <Name>Olá, sou Natanael Caetano</Name>
         <Function>FullStack Developer</Function>
-        <Intro>Graduado em Sistemas de Informação, 
-          tenho experiência em desenvolvimento Web
-          (React, Asp, JS e outros), mobile e criação de conteúdo para o YouTube.
+        <Intro>Cursando Ciências da Computação, 
+          tenho experiência em desenvolvimento frontend
+          e backend (React, TS, JS e outros).
         </Intro>
         <Link href="projects">
           <LinkProjects>PROJETOS <FaArrowRight /></LinkProjects>

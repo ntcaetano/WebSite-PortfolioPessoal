@@ -19,7 +19,7 @@ export default function Header() {
       <Content>
         <ContentTitle>
           <Title>
-            William Lucas
+            Natanael Caetano
           </Title>
           <SubTitle>
             Portfolio Pessoal
